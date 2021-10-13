@@ -1,0 +1,11 @@
+Class name: PopDirectory
+Parent class (if any): 
+Subclasses (if any):
+
+Responsibilities:
+*Changes current working directory to the last saved directory in the directory stack
+*Removes the last saved directory from the directory stack
+*Gives an appropriate error message if stack is empty
+
+Collaborators:
+DirectoryStack

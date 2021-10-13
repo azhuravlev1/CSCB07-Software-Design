@@ -1,0 +1,13 @@
+Class name: JShellInput
+Parent Class (if any):
+Subclasses (if any):
+
+Responsibilities:
+*Check the validity of the command
+*Check the validity of the number of arguments
+*Check the validity of the arguments
+*Print error message if the user input is invalid (i.e command does not exist and/or 
+arguments are invalid
+
+Collaborators:
+*Manual

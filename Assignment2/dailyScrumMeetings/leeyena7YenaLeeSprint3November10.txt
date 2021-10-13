@@ -1,0 +1,12 @@
+a) What did I work on in the last three days?
+    - Worked on EchoOverwrite
+    - Edited JShellInput and JShellExecute to let some commands (ls, mkdir, cat, man)
+      execute with errors on some arguments
+    - Updated comments in JShellInput and JShellExecute
+    - Updated isValidPathBeforeParse and isValidString in JShellInput
+
+b) What do I plan to work in the next three days?
+    - No
+
+c) Am I blocked on anything?
+    - No

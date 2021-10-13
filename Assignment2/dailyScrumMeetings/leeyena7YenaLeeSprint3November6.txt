@@ -1,0 +1,17 @@
+a) What did I work on in the last three days?
+    - Edited names of crcCard Man to Manual and added crcCard for JShellExecute
+    - Edited command names and echo description in Manual class
+    - Worked on JShellExecute
+    - Updated JShell class to have features (start with /:) like a real shell
+    - Updated error messages in JShellInput class
+    - Edited MakeDirectory class so it creates directory properly
+    - Edited isValidPath method and added isValidString in JShellInput class
+
+b) What do I plan to work in the next three days?
+    - update crcCards
+    - edit JShellInput to let MakeDirectory run with error on second argument
+    - work on EchoOverwrite class to access the given file
+    - work on EchoOverwrite class to overwrite the original content
+
+c) Am I blocked on anything?
+    - No

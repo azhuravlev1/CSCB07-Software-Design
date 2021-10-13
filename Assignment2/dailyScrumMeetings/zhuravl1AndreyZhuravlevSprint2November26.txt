@@ -1,0 +1,15 @@
+a) What did I work on in the last three days? 
+	- Created crcCard for Tree class
+	- Wrote the base code for Tree class
+	- Brainstormed design ideas for redirection
+
+b) What do I plan to work in the next three days?
+	- Modify Concatenate code to meet a new requirement
+	- Link commands with JShell
+	- Review each class to check for any areas of improvements
+	- Move validity methods into echo, man, search, popd, history and edit crc Cards
+	- Add JUnit Testing JavaDoc for echo, man, search, popd, history
+
+
+c) Am I blocked on anything?  
+    - No

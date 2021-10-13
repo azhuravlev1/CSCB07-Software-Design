@@ -1,0 +1,11 @@
+Class name: PresentWorkingDirectory
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+*Prints the current working directory, including the whole path
+*If the redirection operator is given, redirect the output to the given file instead of printing
+
+Collaborators:
+*ChangeDirectory
+*Redirection

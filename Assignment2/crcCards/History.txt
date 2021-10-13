@@ -1,0 +1,13 @@
+Class name: History
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+*Get a list of all recent user's inputs (list must contain all inputs, even if they are not commands)
+*Print all recent user's inputs, one input per line (if redirection operator is not given)
+*If an integer argument N is given, print out the last N user's inputs
+from the recent commands list, one input per line (if redirection operator is not given)
+*If the redirection operator is given, redirect the output to the given file instead of printing
+
+Collaborators:
+*Redirection

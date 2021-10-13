@@ -1,0 +1,11 @@
+Class name: ClientUrl
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+*Checks validity of input URL
+*Retrieve the file at given URL
+*Add the retrieved file to the current working directory
+
+Collaborators:
+*File

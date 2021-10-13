@@ -1,0 +1,9 @@
+Class name: SaveJShell
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+* save session of the JShell when prompted
+
+Collaborators: 
+* JShellInput

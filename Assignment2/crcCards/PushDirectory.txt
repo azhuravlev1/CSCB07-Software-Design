@@ -1,0 +1,11 @@
+Class name: PushDirectory
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+*Saves current working directory onto directory stack
+*Changes new current working directory to given directory
+
+Collaborators:
+*ChangeDirectory
+*JShellInput

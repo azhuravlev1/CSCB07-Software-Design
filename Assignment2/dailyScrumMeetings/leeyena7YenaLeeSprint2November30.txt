@@ -1,0 +1,15 @@
+a) What did I work on in the last three days?
+    - Moved validity methods from JShellInput into pwd, mv, cp, cat, and curl
+    - Finished Redirection class
+    - Linked classes into JShellExecute class
+    - Linked classes that requires redirection with Redirection class
+    - Updated crcCards correspondingly
+    - Finished JUnit tests for ClientUrl and Move
+    - Finished JUnit tests for PrintWorkingDirectory, Copy, and Concatenate
+    - Updated some classes that doesn't work
+    - Reviewed each crcCard and code
+
+b) What do I plan to work in the next three days?
+    - CATME survey
+
+c) Am I blocked on anything?

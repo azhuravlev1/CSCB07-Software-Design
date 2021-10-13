@@ -1,0 +1,12 @@
+Class name: Manual
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+*If the redirection operator is not given, prints documentation for CMD of the corresponding command
+*If the redirection operator is given, redirects that documentation to the given file instead of printing
+*Return error message if more than one argument is given
+
+Collaborators:
+*JShellInput
+*Redirection

@@ -1,0 +1,12 @@
+a) What did I work on in the last three days? 
+    - Worked on user stories for mv, cp, curl, echo, man, and pushd
+    - Worked on sprint 1 product backlog for specifying tasks and assigning to teammates
+    - Worked on base code for Search class
+    - Worked on base code for Redirection class
+
+b) What do I plan to work in the next three days?
+    - complete documentations for mv, cp, cat, and curl in Manual class
+    - modify JSHell and JShellInput to meet new requrements
+
+c) Am I blocked on anything?  
+    - No

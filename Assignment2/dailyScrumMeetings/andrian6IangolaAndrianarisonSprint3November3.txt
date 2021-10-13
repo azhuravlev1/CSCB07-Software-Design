@@ -1,0 +1,13 @@
+a) What did I work on in the last three days?
+   - Completed History class so it prints recent commands including 
+     syntactical errors and invalid inputs
+   - Completed PopDirectory class to remove top directory from the stack
+
+b) What do I plan to work in the next three days?
+    - Review crcCards and make necessary changes
+    - Link commands with JShell so they can be executed
+    - Write code for MakeDirectory
+    - Wirte code for List which print content of a directory or a file
+
+c) Am I blocked on anything?
+    - nothing 

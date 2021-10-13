@@ -1,0 +1,12 @@
+a) What did I work on in the last three days? 
+    - Review my code to save current working directory
+    - Review each crc card and make changes
+    - Link all commands with JShell
+    - Review each class to check for any areas of improvements
+
+
+b) What do I plan to work in the next three days?
+    - Continue to review crc cards and classes
+
+c) Am I blocked on anything?  
+    - No

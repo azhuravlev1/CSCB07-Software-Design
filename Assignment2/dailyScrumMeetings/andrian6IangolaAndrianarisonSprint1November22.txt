@@ -1,0 +1,20 @@
+a) What did I work on in the last three days?
+   - Finalized List to meet new requirements
+   - Completed SaveJShell
+
+b) What do I plan to work on in the next three days?
+   - Review crcCards and make changes
+   - Add redirection in crcCards
+   - Write code to recursively visit children of a directory
+   - Remove redundant code in class that calls with RecursivelyVistit
+   - Link commands to Shell
+   - Review classes and fix
+   - Write code to load previous session
+   - Modify MakeDirectory to meet new requirements
+   - Modify validity methods in rm, exit, mkdir, cd, ls and edit crcCarsd
+   - Modify JShellExcecute to meet new requirements
+   - Write code to remove directory
+   - Modify echo commands
+
+c) Am I blocked on anything?
+   - No 

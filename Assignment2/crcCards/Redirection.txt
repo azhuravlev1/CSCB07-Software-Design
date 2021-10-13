@@ -1,0 +1,11 @@
+Class name: Redirection
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+*If > is given and outfile exists, overwrites the given string in the file
+*If >> is given and outfile exists, appends to the given string in the file
+*If >/>> is given and outfile doesn't exist, create a new outfile and put given string in the file
+
+Collaborators: 
+*JShellInput

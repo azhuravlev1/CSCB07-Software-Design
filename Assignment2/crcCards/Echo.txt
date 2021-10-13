@@ -1,0 +1,10 @@
+Class name: Echo
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+*Prints the given string
+*If the redirection operator is given, redirect the output to the given file instead of printing
+
+Collaborators:
+*Redirection

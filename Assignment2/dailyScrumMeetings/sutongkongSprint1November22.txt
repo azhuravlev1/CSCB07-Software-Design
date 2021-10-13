@@ -1,0 +1,10 @@
+a) What did I work on in the last three days? 
+
+
+b) What do I plan to work in the next three days?
+    - Write code for moving the directory
+    - Write code for copying the directory
+
+c) Am I blocked on anything?  
+    - I don't know how to move the directory or copy it I have to ask for help
+    - How to I save the current directory

@@ -1,0 +1,51 @@
+Sprint 1 Backlog.
+November 16 to November 22
+
+User Stories from Product Backlog that we will address in this sprint:
+
+b) As a user ... SaveJShell
+c) As a user ... Search
+d) As a user ... Tree
+e) As a user ... move the item to different directory
+e) As a user ... copy the item to the other directory
+f) As a user ... retrieve the file at a web address
+g) As a user ... PushDirectory
+h) As a user ... JShell, JShellInput, List, Concatenate
+i) As a user ... Manual
+
+Specific tasks to be accomplished:
+a-1. (crcCards) Complete crcCards for rm, exit, mkdir, cd, and ls commands
+a-2. (crcCards) Complete crcCards for pwd, mv, cp, cat, and curl commands
+a-3. (crcCards) Complete crcCards for echo, man, pushd, popd, and history commands
+a-4. (crcCards) Complete crcCards for saveJShell, loadJShell, search, tree, and JShell
+b-1. (JShellStack) Write the base code for JShellStack class
+b-2. (SaveJShell) Write code for saving the current session
+c-1. (Search) Write the base code for Search class
+d-1. (Tree) Write the base code for Tree class
+e-1. (Move) Write code for moving the directory
+e-2. (Copy) Write code for copying the directory
+f-1. (ClientUrl) Having the shell retrieving the file at given web address
+g-1. (PushDirectory) Write code to save current working directory
+h-1. (JShell) Modify JShell to meet new requirements
+h-2. (JShellInput) Modify JShellInput to meet new requirements
+h-3. (List) Modify List to meet a new requirement
+h-4. (Concatenate) Modify Concatenate to meet a new requirement
+i-1. (Commands) Complete documentations for rm, mkdir, and ls in Manual
+i-2. (Commands) Complete documentations for mv, cp, cat, and curl in Manual
+i-3. (Commands) Complete documentations for echo, man, and history in Manual
+i-4. (Commands) Complete documentations for saveJShell, loadJShell, search, tree in Manual
+j-1. (Redirection) Write the base code for Redirection class
+
+These tasks are assigned as follows:
+
+User: Iangola Hajaina Andrianarison
+Tasks: a-1, b-1, b-2, h-3, i-1
+
+User: Yena Lee
+Tasks: a-2, c-1, h-1, h-2, i-2, j-1
+
+User: Andrey Zhuravlev
+Tasks: a-3, d-1, f-1, h-4, i-3
+
+User: Su Tong Kong
+Tasks: a-4, e-1, e-2, g-1, i-4

@@ -1,0 +1,12 @@
+Class name: MakeDirectory
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+*Creates as many directories as specified. Directory can be given as relative
+or full path.
+*Directories are created until the method hits an invalid argument.
+*Prints an error message if reaches an invalid argument
+
+Collaborators:
+*Directory

@@ -1,0 +1,9 @@
+Class name: LoadJShell
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+* load previous session of the JShell when prompted
+
+Collaborators: 
+* JShellInput

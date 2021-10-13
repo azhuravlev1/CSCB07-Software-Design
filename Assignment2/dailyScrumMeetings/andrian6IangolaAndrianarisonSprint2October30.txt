@@ -1,0 +1,13 @@
+a) What did I work on in the last three days?
+   - Created crcCards for Shell and JShell classes
+   - Created exit class and coded for exit command
+   - Began coding History class for printing recent commands in the shell
+
+b) What do I plan to work in the next three days?
+    - Finish working on history class for printing recent commands and syntactical
+      errors made by user
+    - Begin writing code for removing latest current working directory from stack
+
+c) Am I blocked on anything?
+    - Need the DirectoryStack class to be created before I can start coding for
+      removing latest current working directory from stack

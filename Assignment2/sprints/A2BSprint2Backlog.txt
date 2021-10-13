@@ -1,0 +1,59 @@
+Sprint 2 Backlog.
+November 23 to November 30
+
+Specific tasks that did not get completed in sprint1:
+z-1. (Tree) Write the base code for Tree class
+z-2. (Move) Write code for moving the directory
+z-3. (Copy) Write code for copying the directory
+z-5. (PushDirectory) Write code to save current working directory
+z-6. (JShellInput) Modify JShellInput to meet new requirements
+z-7. (Concatenate) Modify Concatenate to meet a new requirement
+
+User Stories from Product Backlog that we will address in this sprint:
+b) As a User ... give a command prompt that I want to execute
+d) As a User ... load a saved session and get the Shell at where it was
+e) As a User ... remove a directory from the file system
+e) As a User ... create directories in the current working directory or in any path specified
+f) As a User ... retrieve the file at a web address and add it to the current working directory
+j) As a User ... print the documentation for a one command onto the shell
+
+Specific tasks to be accomplished:
+a-1. (crcCards) Review each crcCard and make changes, with adding description about redirection
+a-2. (crcCards) Create crcCard for Tree class
+b-1. (JShell) Link all commands with JShell
+b-2. (JShell) Review each class to check for any areas of improvements
+c-1. (Redirection) Link codes that can be redirected with Redirection
+c-2. (Redirection) Link Redirection with classes that need redirection
+d-1. (LoadJShell) Write code for loading the saved session
+e-1. (RemoveDirectory) Write code for removing existing directory
+e-2. (MakeDirectory) Modify MakeDirectory to meet a new requirement
+f-1. (ClientUrl) Having the shell adding the retrieved file to the current directory
+g-1. (Echo) Modify EchoOverwrite and EchoAppend to meet a new requirement
+h-1. (JShellInput) Move validity methods into rm, exit, mkdir, cd, ls and edit crc Cards
+h-2. (JShellInput) Move validity methods into pwd, mv, cp, cat, curl and edit crc Cards
+h-3. (JShellInput) Move validity methods into echo, man, search, popd, history and edit crc Cards
+h-4. (JShellInput) Move validity methods into saveJShell, loadJShell, pushd, tree and edit crc Cards
+i-1. (JShellExecute) Modify JShellExecute to meet new requirements
+j-1. (Manual) Edit documentation formats of some commands
+k-1. (JavaDoc) Add JUnit Testing JavaDoc for rm, exit, mkdir, cd, ls
+k-2. (JavaDoc) Add JUnit Testing JavaDoc for pwd, mv, cp, cat, curl
+k-3. (JavaDoc) Add JUnit Testing JavaDoc for echo, man, search, popd, history 
+k-4. (JavaDoc) Add JUnit Testing JavaDoc for saveJShell, loadJShell, pushd, tree
+l-1. (RecursivelyVisit) Write code recursively visit children of a directory
+l-2. (RecursivelyVisit) remove redundant code methods that use RecursivelyVisit
+l-3. (RecursivelyVisit) create crcCard for RecursivelyVisit
+
+
+These tasks are assigned as follows:
+
+User: Iangola Hajaina Andrianarison
+Tasks: a-1, b-1, b-2, d-1, e-1, e-2, g-1, h-1, i-1, k-1, l-1, l-2, l-3
+
+User: Yena Lee
+Tasks: z-6, a-1, b-1, b-2, c-1, c-2, h-2, i-1, j-1, k-2
+
+User: Andrey Zhuravlev
+Tasks: z-1, z-7, a-1, a-2, b-1, b-2, f-1, h-3, i-1, k-3
+
+User: Su Tong Kong
+Tasks: z-2, z-3, z-5, a-1, b-1, b-2, h-4, i-1, k-4

@@ -1,0 +1,12 @@
+a) What did I work on in the last three days?
+   - Finish removeDirectory
+   - review crcCards and made changes
+   - review classes and made changes to fix bugs
+   - link commands correctly to shell
+   - modify echooverwite and echo append
+   - move validity for exit, cd and edit crccards
+   - add Unit testing for rm, mkdir, cd, ls
+b) What do I plan to work on in the next three days?
+   - CATME survey
+c) Am I blocked on anything?
+   

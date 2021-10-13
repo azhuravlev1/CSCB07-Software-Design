@@ -1,0 +1,15 @@
+a) What did I work on in the last three days? 
+    - completed crcCards for popd, history, and cat commands
+    - completed documentations for popd, history, and cat commands
+    - created the base code for Directory class
+    - brainstormed design ideas with team for jShellInput class
+    - discussed sprint 2 with the team
+
+b) What do I plan to work in the next three days?
+    - Complete crcCard for Directory
+    - Write code for changing directory
+    - Write code for printing current working directory
+    - Write the base code for DirectoryStack class
+
+c) Am I blocked on anything?  
+    - Need crcCard for the DirectoryStack class to be completed before I can continue working on the code for DirectoryStack class

@@ -1,0 +1,10 @@
+Class name: RemoveDir
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+* Removes directory DIR from the file system
+* Removes all the children of DIR
+
+Collaborators: 
+*Directory

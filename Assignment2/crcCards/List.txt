@@ -1,0 +1,18 @@
+Class name: List
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+*If no paths are given, prints contents (files and directories) of the current directory
+*If path of the file is given, print the name of file
+*If path of the directory is given, print the contents of that directory
+*If the path doesn't exist, print an error message that the path doesn't exist
+*Take any number of argument and prints content until reaches an invalid path
+*If -R is present recursively list all subdirectories
+*If the redirection operator is given, redirect the output to the given file instead of printing
+
+Collaborators:
+*File
+*Directory
+*RecursivelyTraverse
+*Redirection

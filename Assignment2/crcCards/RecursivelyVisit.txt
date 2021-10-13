@@ -1,0 +1,10 @@
+Class name: RecursivelyVisit
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+*Recursively visit children of a directory
+*Print the subdirectories if called in list class
+*Remove the subdirectories if called in remove class
+
+Collaborators: 

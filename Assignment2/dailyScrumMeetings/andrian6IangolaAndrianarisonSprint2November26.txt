@@ -1,0 +1,17 @@
+a) What did I work on in the last three days?
+   - Wrote core to recuisevely visit children for list
+   - Fixed list and makedirectory to work on full path
+   - wrote code to load previous session
+   - move checking for validity in list and makedirectory
+   - began writing code for removing directory
+   - linked rm and loadJShell to shell
+b) What do I plan to work on in the next three days?
+   - Finish removeDirectory
+   - review crcCards and make changes
+   - review classes and make changes
+   - link commands correctly to shell
+   - modify echooverwite and echo append
+   - move validity for exit, dc and edit crccards
+   - add Unit testing for rm, exit, mkdir, cd, ls
+c) Am I blocked on anything?
+   - need to finish classes before I can start testing

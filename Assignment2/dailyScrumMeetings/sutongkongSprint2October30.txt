@@ -1,0 +1,10 @@
+a) What did I work on in the last three days?
+    - Finished up the last sprint
+    - Started looking at this sprint
+b) What do I plan to work in the next three days?
+    - Finish crc cards 
+    - write code for my part of the sprint.
+
+c) Am I blocked on anything?
+    - Need to understand the functionalities of the components I am 
+	responsible for.

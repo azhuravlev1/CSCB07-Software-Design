@@ -1,0 +1,17 @@
+Class name: Move
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+*Checks validity of input arguments
+*If NEWPATH is a new file or directory, move OLDPATH to parent directory of NEWPATH 
+*If NEWPATH is a file and OLDPATH is a file, overwrite contents of OLDPATH to NEWPATH
+*If NEWPATH is a directory and OLDPATH is a directory, move OLDPATH to NEWPATH
+*If NEWPATH is a directory and OLDPATH is a file, move item OLDPATH to NEWPATH
+
+Collaborators:
+*Copy
+*Directory
+*File
+*JShellInput
+*RemoveDirectory

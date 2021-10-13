@@ -1,0 +1,14 @@
+Class name: Concatenate
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+*Checks validity of input arguments
+*If the redirection operator is not given, print content of a specified file or
+contents of several specified files
+*If the redirection operator is given, redirect that content to the given file instead of printing
+
+Collaborators:
+*File
+*Redirection
+

@@ -1,0 +1,11 @@
+Class name: Shell
+Parent class (if any): 
+Subclasses (if any):
+
+Responsibilities:
+*Continuously prompt the user for input
+*Get input from the user and execute the given command if valid
+
+Collaborators:
+* JShellInput
+* JShellExecute

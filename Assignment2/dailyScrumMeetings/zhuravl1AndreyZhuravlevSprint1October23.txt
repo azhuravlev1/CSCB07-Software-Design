@@ -1,0 +1,12 @@
+a) What did I work on in the last three days? 
+    - Worked on user stories for popd, history and cat commands
+    - Looked at team's design ideas for JShell
+    - Plan for creating directory class
+
+b) What do I plan to work in the next three days?
+    - complete crcCards for popd, history, and cat commands
+    - complete documentations popd, history, and cat commands
+    - write the base code for Directory class
+
+c) Am I blocked on anything?  
+    - no

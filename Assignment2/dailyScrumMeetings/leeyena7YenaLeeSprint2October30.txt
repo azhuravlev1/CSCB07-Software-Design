@@ -1,0 +1,15 @@
+a) What did I work on in the last three days?
+    - Completed sprint 2 backlog
+    - Completed crcCard for File class
+    - Created JShellInput class
+    - Worked on JShellInput class and argument number checking methods
+    - Brainstormed idea on JShellInput class argument path checking methods
+    - Worked on Manual class printing documentations
+
+b) What do I plan to work in the next three days?
+    - work on JShellInput argument path checking method
+    - discussion about sprint 3 backlog
+    - plan and prepare for assignment 2A demo
+
+c) Am I blocked on anything?
+    - Need List and MakeDirectory classes to be completed to get a better idea of checking valid path input

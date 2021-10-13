@@ -1,0 +1,11 @@
+a) What did I work on in the last three days?
+   - Completed MakeDirectory class 
+   - Completed List class
+   - Link commands that I worked on with JShell for execution
+
+b) What do I plan to work in the next three days?
+    - Review crcCards to make sure they match the code
+    - Review class and fix remaining bugs 
+
+c) Am I blocked on anything?
+    - nothing  

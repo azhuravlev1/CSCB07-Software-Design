@@ -1,0 +1,17 @@
+a) What did I work on in the last three days? 
+    - Completed sprint 2 backlog
+    - Added documentations for mv, cp, cat, and curl in Manual class
+    - Modified isValidArguments method by splitting into commands in JShellInput class
+    - Brainstormed about moving validity checking methods to respective classes
+    - Added isValidRedirection and isValidURL in JShellInput class
+    - Added validity checking methods for rm, pwd, mv, cp, and curl
+
+b) What do I plan to work in the next three days?
+    - add validity checking methods for saveJShell, loadJShell, and search in JShellInput
+    - add redirection checker for cat, curl, man, and history in JShellInput
+    - modify JShellExecute to meet new requirements and link all commands
+    - edit Manual to change documentation formats of commands and add redirection examples
+    - move validity methods into echo, man, search, popd, and history
+
+c) Am I blocked on anything?  
+    - No

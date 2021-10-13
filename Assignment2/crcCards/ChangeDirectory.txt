@@ -1,0 +1,8 @@
+Class name: ChangeDirectory
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+*Changes current directory to DIR, which is a directory in current directory
+
+Collaborators:

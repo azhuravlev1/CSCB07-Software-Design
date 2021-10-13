@@ -1,0 +1,9 @@
+Class name: JShellExecute
+Parent Class (if any):
+Subclasses (if any):
+
+Responsibilities:
+*Executes input commands
+
+Collaborators:
+*JShellInput

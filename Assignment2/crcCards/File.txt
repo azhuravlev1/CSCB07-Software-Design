@@ -1,0 +1,13 @@
+Class name: File
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+*Store the name of the file
+*Store the content in the file
+*Store the parent directory in which this file is located
+*Return name, contents of file, or parent directory if requested
+*Change name, contents, or parent directory if requested
+
+Collaborators:
+*

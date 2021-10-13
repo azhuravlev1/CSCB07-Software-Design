@@ -1,0 +1,16 @@
+a) What did I work on in the last three days? 
+    - Completed crcCards for ls, pwd, and pushd commands
+    - Completed documentations for ls, pwd, and pushd commands
+    - Worked on JShell prompting and parsing user input
+    - Brainstormed design ideas with team for JShell and DirectoryStack
+    - Brainstormed plan for creating file and directory classes
+
+b) What do I plan to work in the next three days?
+    - finish discussion about sprint 2 backlog
+    - complete sprint 2 backlog
+    - complete crcCard for File class
+    - create JShellInput class and link it to JShell
+    - work on Manual class to print documentation for commands
+
+c) Am I blocked on anything?  
+    - Need sprint 2 backlog to be completed before I can know every task on sprint 2

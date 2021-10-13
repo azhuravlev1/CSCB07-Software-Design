@@ -1,0 +1,36 @@
+Sprint 1 Backlog.
+October 21 to October 27
+
+User Stories from Product Backlog that we will address in this sprint:
+a) Create Directory
+b) View content of file(s)
+c) Give a prompt to the JShell
+
+Specific tasks to be accomplished:
+a-1. (crcCards) Complete crcCards for exit, mkdir, and cd commands
+a-2. (crcCards) Complete crcCards for ls, pwd, and pushd commands
+a-3. (crcCards) Complete crcCards for popd, history, and cat commands
+a-4. (crcCards) Complete crcCards for echo >, echo >>, and man commands
+b-1. (JShell) Begin coding the structure of the command line interpreter
+b-2. (JShell) Have the shell continually prompt the user for input
+c-1. (JShell) Parse the user input for proper keywords
+d-1. (Directory) Write the base code for Directory class
+d-2. (File) Write the base code for File class
+e-1. (Commands) Complete documentations for exit, mkdir, and cd commands
+e-2. (Commands) Complete documentations for ls, pwd, and pushd commands
+e-3. (Commands) Complete documentations for popd, history, and cat commands
+e-4. (Commands) Complete documentations for echo >, echo >>, and man commands
+
+These tasks are assigned as follows:
+
+User: Iangola Hajaina Andrianarison
+Tasks: a-1, b-1, e-1
+
+User: Yena Lee
+Tasks: a-2, b-2, c-1, e-2
+
+User: Andrey Zhuravlev
+Tasks: a-3, d-1, e-3
+
+User: Su Tong Kong
+Tasks: a-4, d-2, e-4

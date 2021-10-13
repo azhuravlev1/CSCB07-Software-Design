@@ -1,0 +1,11 @@
+a) What did I work on in the last three days?
+   - Review crcCards and made appropriate changes
+   - Fixed bugs in MakeDirectory and List classes so they don’t crash
+     the program and do what they need to do
+   - Fixed PopDirectory method calling in JShellExcecute and fixed the
+     class so it works properly
+
+b) What do I plan to work in the next three days?
+
+c) Am I blocked on anything? 
+ 

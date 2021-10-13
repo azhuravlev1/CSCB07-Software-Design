@@ -1,0 +1,105 @@
+User Stories                       Time Estimate
+
+Exit the program:
+As a Shell User I can quit         An hour
+the program I am currently 
+working with.
+
+Create directory:
+As a User I can create two         Few hours
+new directories in the current
+directory or in any specified
+directory.
+
+Change directory:
+As a User I can change the         Few hours
+current directory I am in,
+to a specified directory which
+may be relative to the current
+directory or may be multiple
+directories aways from the
+one I am in.
+
+Print contents:
+As a User, I can print files	   A few hours
+or directories of the current
+working directory or a specified
+directory. Also, I can print a
+specified file. So, I can check
+the contents inside the directory
+or if the file exists in the
+current working directory.
+
+Print working directory:
+As a User, I can print and see	   One day
+the current working directory
+with the whole path, so I can
+easily check the previous
+directories that leads to the
+current working directory.
+
+Save current working directory:
+As a User, I can save the	   A few days
+current working directory onto
+directory list and move to the
+specified directory, so I can
+remember the previous directory
+where I was in.
+
+Go to the saved directory:
+As a User, I can go to the last    One hour
+directory saved to the
+directory list, while removing
+that directory from the list.
+
+View recent commands:
+As a User, I can view the          Several Hours
+history of the previously
+called commands in the
+chronological order.
+I can either view the entire
+session history or only
+the last n commands, where n
+is a specified number.
+
+View content of file(s):
+As a User, I can view              One day
+the contents of a specified
+file or several specified files.
+
+Put a string into a file:
+As a User, I can put a string      One day
+into a specified outfile. If I 
+do not provide an outfile, I must
+see the string printed onto the 
+shell. If I specify an outfile     
+but it does not exist, it must be 
+created. If the outfile exists, 
+the old content must be replaced 
+with the string. Moreover, the 
+only thing in the outfile must be 
+a string. 
+
+Appends string into a file:
+As a User, I can put a string      One day
+into a specified outfile. If I 
+do not provide an outfile, I must
+see the string printed onto the 
+shell. If I specify an outfile but        
+it does not exist, it must be 
+created. If the outfile exists, 
+the string must be appended onto 
+the old contents. Moreover, the 
+only thing in the outfile must be 
+a string.
+
+Print documentation for CMD(s):
+As a User, I can print the         A few hours
+documentation for a one or more
+CMD(s) onto the shell. So, I can
+learn how and when I would use
+the CMD.
+
+Give a prompt to the jShell:       A day
+As a User, I can give a command 
+prompt that I want to execute.

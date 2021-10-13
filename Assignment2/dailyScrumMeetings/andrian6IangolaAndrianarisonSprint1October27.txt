@@ -1,0 +1,14 @@
+a) What did I work on in the last three days? 
+    - Completed crcCards for exit, mkdir and cd
+    - Completed documentations for exit, mkdir and cd
+    - Began coding the structure of the jshell 
+    - Look at team ideas with for design
+
+b) What do I plan to work in the next three days?
+    - complete crcCards for Shell and JShellInput
+    - begin coding for exiting the shell
+    - write code to save recent commands
+    - write code to remove latest current working directory 
+
+c) Am I blocked on anything?  
+    - nothing 

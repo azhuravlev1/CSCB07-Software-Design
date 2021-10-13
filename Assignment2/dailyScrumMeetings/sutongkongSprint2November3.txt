@@ -1,0 +1,15 @@
+a) What did I work on in the last three days? 
+    - completed crc card for DirectoryStack
+    - completed the code to read content of a single or multiple files
+    - completed code to print content of file(s) on shell
+    - completed code to save current working directory
+
+
+b) What do I plan to work in the next three days?
+    - Review my code to save current working directory
+    - Review each crc card and make changes
+    - Link all commands with JShell
+    - Review each class to check for any areas of improvements
+
+c) Am I blocked on anything?  
+    - No

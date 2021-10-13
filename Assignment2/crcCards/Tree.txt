@@ -1,0 +1,14 @@
+Class name: Tree
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+*If the redirection operator is not given, prints the tree representation of the  the entire file
+system
+*If the redirection operator is given, redirects that representation to the given file instead of printing
+
+
+Collaborators:
+*Redirection
+*JShellInput
+

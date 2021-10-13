@@ -1,0 +1,8 @@
+Class name: DirectoryStack
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+*Stores the accessed directories in a stack so that user can go back to the last directory
+
+Collaborators:

@@ -1,0 +1,17 @@
+a) What did I work on in the last three days? 
+    - Wrote code for changing directory
+    - Wrote the base code for DirectoryStack class
+    - Added new methods and improved initialization in the Directory class
+    - Corrected my misstakes in PresentWotkingDirectory class
+
+
+b) What do I plan to work in the next three days?
+    - Review each crcCard and make changes
+    - Link all commands with JShell
+    - Review each class to check for any areas of improvements
+    - Write code to print the contents of the file
+    - Write code to access given file
+    - Write code to append STRING to content of OUTFIELD
+
+c) Am I blocked on anything?  
+    - No

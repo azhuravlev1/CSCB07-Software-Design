@@ -1,0 +1,43 @@
+Sprint 3 Backlog.
+November 4 to november 10
+
+Specific tasks that did not get completed in sprint2:
+z-1. (Push Directory) Write code to save current working directory
+
+User Stories from Product Backlog that we will address in this sprint:
+c) As a user ... create two new directories in the current or in any specified directory
+d) As a user ... print contents of a directory or a file
+e) As a user ... view contents of a specified file or several specified files
+f) As a user ... put a string into a specified outfile
+f) As a user ... print a string onto the shell
+f) As a user ... replace old content with the string
+g) As a user ... put a string into a specified outfile
+g) As a user ... append onto the old contents
+
+Specific tasks to be accomplished:
+a-1. (crcCards) Review each crcCard and make changes
+b-1. (JShellExecute) Write the base code for JShellExecute class and link all commands
+b-2. (JShell) Link all commands with JShell
+b-3. (JShell) Review each class to check for any areas of improvements
+c-1. (MakeDirectory) Write code for making two directories DIR1 and DIR2
+d-1. (List) Write code to print the contents of the given directory
+d-2. (List) Write code to print the contents of the file
+e-1. (Concatenate) Write code to print contents in file(s)
+f-1. (EchoOverwrite) Write code to access the given file.
+f-2. (EchoOverwrite) Write code to erase original content of OUTFIlE and put STRING in
+g-1. (EchoAppend) Write code to access given file
+g-2. (EchoAppend) Write code to append STRING to content of OUTFIELD
+
+These tasks are assigned as follows:
+
+User: Iangola Hajaina Andrianarison
+Tasks: a-1, b-2, b-3, c-1, d-1, d-2
+
+User: Yena Lee
+Tasks: a-1, b-1, b-2, b-3 f-1, f-2
+
+User: Andrey Zhuravlev
+Tasks: a-1, b-2, b-3, e-1, g-1, g-2
+
+User: Su Tong Kong
+Tasks: z-1, a-1, b-2, b-3

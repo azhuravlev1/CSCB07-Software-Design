@@ -1,0 +1,21 @@
+a) What did I work on in the last three days?
+    - Edited crcCards that requires description and collaborators of redirection
+    - Edited documentations in Manual class
+    - Updated JShellInput class to valid checking methods for saveJShell, loadJShell, and search
+    - Edited isValidPath method and added isValidUrl method in JShellInput
+    - Updated Redirection class and crcCard respectively
+    - Worked on JUnit test for ClientUrl class
+    - Added JUnit test for Move class and brainstormed possible test cases
+
+b) What do I plan to work in the next three days?
+    - Move validity methods from JShellInput into pwd, mv, cp, cat, and curl
+    - Finish Redirection class
+    - Link all classes into JShellExecute class
+    - Link classes that requires redirection with Redirection class
+    - Update crcCards correspondingly
+    - finish JUnit tests for ClientUrl and Move
+    - finish JUnit tests for PrintWorkingDirectory, Copy, and Concatenate
+    - Review each crcCard and code
+
+c) Am I blocked on anything?  
+    - Tests can be properly done after implementation of each class is done

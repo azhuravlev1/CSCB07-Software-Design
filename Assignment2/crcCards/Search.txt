@@ -1,0 +1,16 @@
+Class name: Search
+Parent class (if any): 
+Subclasses (if any):
+
+Responsibilities:
+*Checks validity of input arguments
+*If type f is given, search the paths to find all files that contains desired name
+*If type d is given, search the paths to find all files that contains desired name
+*If redirection operator is given, redirect the output to the given file instead of printing
+
+Collaborators:
+*ChangeDirectory
+*Directory
+*File
+*JShellInput
+*Redirection

@@ -1,0 +1,80 @@
+User Stories                                  Time Estimate
+
+Remove the directory:
+As a User, I can remove a directory from      Few hours
+the file system. This also removes all this
+directory's children.
+
+Create directory:
+As a User, I can create directories in the    Two days
+current working directory or in any path
+specified. I can create as many directories
+as I wish to. If an error occurs at any given
+moment then I stop create directories and the
+following directories cannot be created.
+
+Print contents:
+As a User, I can bring the content of a given  Two days
+directory or the name of a given file. A path
+of the directory or file is given. I can also
+print recursively all subdirectories. 
+
+Move an item to a new path:
+As a User, I can move the item to different    Two days
+directory, so I can find the item in the
+other path where I want.
+
+Copy a content to a new path:
+As a User, I can copy the item to the other    Two days
+directory, so I can find the item in two
+different location.
+
+View content of file(s):
+As a User, I can view the contents of a        One hour
+specified file or all specified files, so I
+can view file contents with the shell.
+
+Retrieve and add file(s) at a web address:
+As a User, I can retrieve the file at a        Two days
+web address and add it to the current
+working directory, so I can get and use the
+file which is on the website.
+
+Print documentation for a command:
+As a User, I can print the documentation	     One hour
+for a one command onto the shell. So, I can
+learn how and when I would use the
+command.
+
+Save current working directory:
+As a User, I can save the current working      Two hours
+directory onto directory list and move to
+the specified directory, so I can remember
+the previous directory where I was in.
+
+Save session of JShell:
+As a User, I can save my current session       Two days
+onto a file in my computer. The file can be
+new or an old file. Saving the session will
+overwrite the file or create a new file will
+all the commands up to where I am at before
+I close the session.
+
+Load the saved session of JShell:
+As a User, I can load a saved session and get  Two days
+the Shell at where it was before closing that
+saved session. Every command executed will be
+loaded onto the current session. I can only 
+use this command if no other command has been
+called when I open a session.
+
+Search: 
+As a User, I can search for any file or.       One day
+directory in the file system and see the what
+I am looking for on the Shell. What I am 
+looking for can be relative or absolute path.
+
+Tree:
+As a User, I can display the entire file       Two days
+system onto the shell. The content is 
+displayed as a tree.

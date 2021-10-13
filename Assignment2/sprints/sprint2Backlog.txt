@@ -1,0 +1,46 @@
+Sprint 2 Backlog.
+October 28 to November 3
+
+User Stories from Product Backlog that we will address in this sprint:
+b)As a user ... quit the program the user is currently working with
+c)As a user ... give a command prompt that the user want to execute
+d)As a user ... change the directory user is in
+d)As a user ... print and see the current working directory
+e)As a user ... create two  new directories
+f)As a user ... print files or directories of current or specified directory
+g)As a user ... view history of the previously called commands
+h)As a user ... print the documentation for a one or more CMD(s)
+i)As a user ... save the current working directory onto directory list
+i)As a user ... go to the last directory saved and removing that directory from list
+
+Specific tasks to be accomplished:
+a-1. (crcCards) Complete crcCard for JShell and JShellInput
+a-2. (crcCards) Complete crcCard for File
+a-3. (crcCards) Complete crcCard for Directory
+a-4. (crcCards) Complete crcCard for DirectoryStack
+b-1. (JShell) Begin coding exit the shell
+c-1. (JShellInput) Write the base code for JShellInput class
+c-2. (JShellInput) Have the shell check for valid input
+d-1. (Change Directory) Write code for changing directory
+d-2. (Present Directory) Write code for printing current working directory
+e-1. (View content file) Write code to read content of a single or multiple files
+e-2. (View content file) Write code to print content of file(s) on shell
+f-1. (History) Write code to save recent commands
+g-1. (Commands) Write code to print documentation for commands written in sprint 1
+h-1. (Directory Stack) Write the base code for DirectoryStack class
+h-2. (Push Directory) Write code to save current working directory
+h-3. (Pop Directory) Write code to remove latest current working directory
+
+These tasks are assigned as follows:
+
+User: Iangola Hajaina Andri anarison
+Tasks: a-1, b-1, f-1, h-3
+
+User: Yena Lee
+Tasks: a-2, c-1, c-2, g-1
+
+User: Andrey Zhuravlev
+Tasks: a-3, d-1, d-2, h-1
+
+User: Su Tong Kong
+Tasks: a-4, e-1, e-2, h-2

@@ -1,0 +1,12 @@
+a) What did I work on in the last three days?
+   - Worked on user stories for rm, mkdir, ls saveJShell LoadJshell,
+     Search and Tree.
+   - Completed crcCards for rm, exit, mkdir, cd and ls
+   - Began modifying List class to meet new recquiements
+
+b) What do I plan to work on in the next three days?
+   - Finalize List to meet new requirements 
+   - Complete SaveJShell to save the current session
+
+c) Am I blocked on anything?
+   - No

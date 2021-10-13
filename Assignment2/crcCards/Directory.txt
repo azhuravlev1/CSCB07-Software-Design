@@ -1,0 +1,12 @@
+Class name: Directory
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+*Store the name of the directory
+*Store a list of files and directories in the directory
+*Store the directory in which this directory is located
+*Return name, list of files and directories or parent directory if requested
+*Add file/directory to the directory
+
+Collaborators:

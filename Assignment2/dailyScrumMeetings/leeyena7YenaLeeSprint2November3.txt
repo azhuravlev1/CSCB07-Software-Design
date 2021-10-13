@@ -1,0 +1,15 @@
+a) What did I work on in the last three days?
+    - Discussed about sprint 3 backlog with the team
+    - Completed sprint 3 backlog
+    - Worked on JShellInput argument path checking method
+    - Plan and prepare for assignment 2A demo
+
+b) What do I plan to work in the next three days?
+    - edit crcCards
+    - edit Manual class to correspond with correct class name
+    - add JShellExecute class to let JShell execute the commands
+    - work on EchoOverwrite class to access the given file
+    - work on EchoOverwrite class to overwrite the original content
+
+c) Am I blocked on anything?
+    - No
