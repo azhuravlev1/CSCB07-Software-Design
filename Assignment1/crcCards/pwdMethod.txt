@@ -1,0 +1,10 @@
+Class name: pwdMethod
+
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+*List the path to the current directory onto the shell, starting from root, when called.
+
+Collaborators:
+*File System

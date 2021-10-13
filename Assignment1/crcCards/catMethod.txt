@@ -1,0 +1,14 @@
+Class name: catMethod
+
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+*Display the contents of a specified file in the current directory onto the shell when called
+*If file is not found then do not do anything
+
+Collaborators:
+*CheckFileExistence
+*File System
+
+

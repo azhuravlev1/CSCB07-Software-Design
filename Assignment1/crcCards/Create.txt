@@ -1,0 +1,10 @@
+Class name: Create
+
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+*Creates a file with the specified file name
+
+Collaborators:
+*File System

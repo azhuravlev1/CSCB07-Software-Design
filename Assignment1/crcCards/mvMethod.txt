@@ -1,0 +1,15 @@
+Class name: mvMethod
+
+Parent class (if any): cpMethod
+Subclasses (if any): None
+
+Responsibilities:
+* Copys file OLDFILE to NEWFILE in the working directory
+* Copys file from the OLDFILE location to NEWFILE in the working directory
+* Copys file OLDFILE in the working directory to the NEWFILE locatio
+* Copys file from the OLDFILE location to the NEWFILE location
+* Deletes the original file
+
+
+Collaborators:
+*Remove

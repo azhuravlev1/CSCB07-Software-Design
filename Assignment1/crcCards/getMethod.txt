@@ -1,0 +1,13 @@
+Class name: getMethod
+
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+*gets the file at the given URL and adds it to current directory when called
+*Returns File not found error when no file is found at that address
+
+Collaborators:
+*Http
+*File System
+*Create

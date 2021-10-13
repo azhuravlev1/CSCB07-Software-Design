@@ -1,0 +1,12 @@
+Class name: Http
+
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+*Connects its collaborators with the internet
+*allows for GET POST PUT DELETE requests to be sent by the collaborator
+
+Collaborators:
+
+

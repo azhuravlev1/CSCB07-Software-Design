@@ -1,0 +1,15 @@
+Class name: echoMethod
+
+Parent class (if any): none
+Subclasses (if any): none
+
+Responsibilities:
+*if the two given strings have > between them, then calls echoOverwriteMethod
+and passes strings to it
+*if the two given strings have >> between them, calls echoAppendMethod
+and passes strings to it
+*if input is none of the following then returns the error message
+
+Collaborators:
+*echoOverwriteMethod 
+*echoAppendMethod

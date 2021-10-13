@@ -1,0 +1,11 @@
+Class name: exitMethod
+
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+*Exits the shell when called
+
+Collaborators:
+*Memory
+

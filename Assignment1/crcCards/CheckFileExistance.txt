@@ -1,0 +1,14 @@
+Class name: CheckFileExistance
+
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+* If only the name of the file is given, checks if the file exists
+in the current directory
+* If the path relative to the current directory or full path is
+given, then checks if the file exists in that directory
+
+
+Collaborators:
+* File System

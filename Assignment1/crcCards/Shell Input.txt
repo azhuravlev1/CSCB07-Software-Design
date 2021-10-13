@@ -1,0 +1,23 @@
+Class name: Shell Input
+
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+*Read input from the shell
+*Call the appropriate method and proide it with the input
+information if needed
+
+Collaborators:
+*Shell
+*exitMethod
+*mkdirMethod
+*cdMethod
+*lsMethod
+*pwdMethod
+*mvMethod
+*cpMethod
+*catMethod
+*getMethod
+*echoMethod
+

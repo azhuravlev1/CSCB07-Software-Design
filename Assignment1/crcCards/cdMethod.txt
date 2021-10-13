@@ -1,0 +1,12 @@
+Class name: cdMethod
+
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+* Changes working directory to the specified full path
+* Changes working directory to the directory specified relative to
+the current directory
+
+Collaborators:
+*File System

@@ -1,0 +1,10 @@
+Class name: lsMethod
+
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+*list all files and sub-directories in the current directory when called
+
+Collaborators:
+*File System

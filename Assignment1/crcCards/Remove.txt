@@ -1,0 +1,10 @@
+Class name: Remove
+
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+*Removes a file from the directory
+
+Collaborators:
+*File System

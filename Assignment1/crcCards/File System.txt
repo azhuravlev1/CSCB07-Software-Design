@@ -1,0 +1,10 @@
+Class name: File System
+
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+*Provides access to the file system
+
+Collaborators:
+*Memory

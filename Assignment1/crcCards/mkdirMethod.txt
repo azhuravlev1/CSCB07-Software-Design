@@ -1,0 +1,16 @@
+Class name: mkdirMethod
+
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+* creates a directory with a given name in the current directory 
+* creates a directory with a given name in the specified full path
+* creates a directory with a given name in the specified path
+relative to the current directory
+* returns error message if the file already exists
+
+
+Collaborators:
+*File System
+*CheckFileExistance

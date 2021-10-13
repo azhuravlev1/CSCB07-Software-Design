@@ -1,0 +1,14 @@
+Class name: echoAppendMethod
+
+Parent class (if any):
+Subclasses (if any):echoOverwriteMethod
+
+Responsibilities:
+* If the given file exists, opens it and appends the given string to it
+* If the given file does not exists, creates a new one with the
+given name and appends the given string to it
+
+
+Collaborators:
+*CheckFileExistance
+*CreateFile

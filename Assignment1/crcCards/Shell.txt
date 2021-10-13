@@ -1,0 +1,11 @@
+Class name: Shell
+
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+*Open shell and start a new session
+*Perform session use case
+*Stop session when program is closed
+
+Collaborators:
