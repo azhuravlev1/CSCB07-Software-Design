@@ -1,11 +1,5 @@
 package a1;
-/*
- * You are not required to make any changes inside the Node class. 
- * This class is completely written by us and requires no changes. 
- * If you were to edit this class, your edits will be ignored, and we
- * will test your program out using this same Node class that was 
- * provided to you as part of the starter code. 
- */
+
 public class Node {
 
 		private int data;
